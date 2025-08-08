@@ -1,0 +1,59 @@
+baseURL: https://blog.rustix.dev/
+languageCode: en-us
+title: Rustix.dev Blog
+theme: hextra
+menu:
+  main:
+    - name: Blog
+      pageRef: /blog
+      weight: 1
+    - name: Rustix Cabins
+      pageRef: /cabins
+      weight: 2
+    - name: About
+      pageRef: /about
+      weight: 3
+    - name: Search
+      weight: 4
+      params:
+        type: search
+    - name: GitHub
+      weight: 5
+      url: "https://github.com/JulioFS"
+      params:
+        icon: github
+params:
+  description: When woodworking and application development collide, inevitable.
+  author: JulioFS
+  theme:
+    default: system
+    displayToggle: true
+  footer:
+    enable: true
+    displayCopyright: false
+    displayPoweredBy: false
+    width: normal
+  displayUpdatedDate: true
+  dateFormat: "January 2, 2025"
+  search:
+    enable: true
+    type: flexsearch
+    flexsearch:
+      # index page by content|summary|heading|title
+      index: content
+      # full|forward|reverse|strict
+      # https://github.com/nextapps-de/flexsearch/#tokenizer-prefix-search
+      tokenize: forward
+  editURL:
+    enable: true
+  blog:
+    list:
+      displayTags: true
+      # date | lastmod | publishDate | title | weight
+      sortBy: date
+      sortOrder: desc # or "asc"
+      # Pagination
+      pagerSize: 20
+
+    article:
+      displayPagination: true
