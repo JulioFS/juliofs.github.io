@@ -1,0 +1,19 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rustix.dev Blog – Wood</title>
+    <link>http://localhost:1313/rustix/rustix-cabins/</link>
+    <description>Recent content in Wood on Rustix.dev Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 08 Aug 2025 12:34:50 -0700</lastBuildDate>
+    
+	  <atom:link href="http://localhost:1313/rustix/rustix-cabins/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+  </channel>
+</rss>

@@ -4,11 +4,11 @@ title: Rustix.dev Blog
 theme: hextra
 menu:
   main:
-    - name: Blog
-      pageRef: /blog
+    - name: Tech
+      pageRef: /posts
       weight: 1
     - name: Rustix Cabins
-      pageRef: /cabins
+      pageRef: /rustix
       weight: 2
     - name: About
       pageRef: /about
@@ -45,7 +45,7 @@ params:
       # https://github.com/nextapps-de/flexsearch/#tokenizer-prefix-search
       tokenize: forward
   editURL:
-    enable: true
+    enable: false
   blog:
     list:
       displayTags: true
