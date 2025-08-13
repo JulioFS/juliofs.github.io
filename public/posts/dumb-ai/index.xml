@@ -1,8 +1,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Rustix.dev Blog – Dumb AI</title>
+    <title>Rustix Blog – Dumb AI</title>
     <link>http://localhost:1313/posts/dumb-ai/</link>
-    <description>Recent content in Dumb AI on Rustix.dev Blog</description>
+    <description>Recent content in Dumb AI on Rustix Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 08 Aug 2025 10:50:52 -0700</lastBuildDate>

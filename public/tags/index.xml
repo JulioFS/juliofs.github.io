@@ -1,8 +1,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Rustix.dev Blog – Tags</title>
+    <title>Rustix Blog – Tags</title>
     <link>http://localhost:1313/tags/</link>
-    <description>Recent content in Tags on Rustix.dev Blog</description>
+    <description>Recent content in Tags on Rustix Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     

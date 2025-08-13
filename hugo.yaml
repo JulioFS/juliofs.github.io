@@ -1,13 +1,19 @@
 baseURL: https://blog.rustix.dev/
 languageCode: en-us
-title: Rustix.dev Blog
+title: Rustix Blog
 theme: hextra
+security:
+  enableInlineShortcodes: true
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
 menu:
   main:
-    - name: Tech
+    - name: Rustix Tech
       pageRef: /posts
       weight: 1
-    - name: Rustix Cabins
+    - name: Rustix Woodwork
       pageRef: /rustix
       weight: 2
     - name: About
