@@ -1,0 +1,19 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rustix Dev – Fancy Restaurant Menu</title>
+    <link>http://localhost:1313/posts/fancy-menu/</link>
+    <description>Recent content in Fancy Restaurant Menu on Rustix Dev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 29 Aug 2025 11:53:04 -0700</lastBuildDate>
+    
+	  <atom:link href="http://localhost:1313/posts/fancy-menu/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+  </channel>
+</rss>

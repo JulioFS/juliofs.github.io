@@ -1,6 +1,6 @@
 baseURL: https://blog.rustix.dev/
 languageCode: en-us
-title: Rustix Blog
+title: Rustix Dev
 theme: hextra
 security:
   enableInlineShortcodes: true

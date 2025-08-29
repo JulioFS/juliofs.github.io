@@ -1,8 +1,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Rustix Blog – Rustix Development</title>
+    <title>Rustix Dev – Rustix Development</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content in Rustix Development on Rustix Blog</description>
+    <description>Recent content in Rustix Development on Rustix Dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 08 Aug 2025 10:34:04 -0700</lastBuildDate>
