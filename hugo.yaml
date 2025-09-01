@@ -32,7 +32,7 @@ params:
   description: When woodworking and application development collide, inevitable.
   author: JulioFS
   theme:
-    default: system
+    default: light # Options: light | dark | system
     displayToggle: true
   footer:
     enable: true

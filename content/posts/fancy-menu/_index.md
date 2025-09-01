@@ -150,6 +150,11 @@ let FancyMenu = (() => {
 })();
 ```
 
+<script data-isso="//isso.rustix.dev/" src="//isso.rustix.dev/js/embed.min.js"></script>
+<section id="isso-thread">
+    <noscript>Javascript needs to be activated to view comments.</noscript>
+</section>
+
 <script>
 let FancyMenu = (() => {
     let _generate = {},
