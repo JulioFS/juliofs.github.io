@@ -62,3 +62,8 @@ Some of the stuff that I'll be showcasing on my **Rustix Woodworking** series:
   <object data="https://lh3.googleusercontent.com/pw/AP1GczNS5cUkMtIhTtPn5pSMUJOUPgjD9InWTCeCyA9D7ysMEdibRLP5QQPbfdFdDWjdYPA6B8CthARWdJ3Vx-6HwDA0Hge-iTxyKEVrXw0nXnyJAvtGki1w=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/pw/AP1GczOvlJtM68XbcxmKJQZL6q8tLRkRJMqNuWOc2x_WciK3-cUcri9_eTCJEH93dgY5OtpodjkTnRhd2g025SjI7PeikjcTDTgXbwPrUiKm17_I6fNQ5ane=w1920-h1080"></object>
 </div>
+
+<script data-isso="//isso.rustix.dev/" src="//isso.rustix.dev/js/embed.min.js"></script>
+<section id="isso-thread">
+    <noscript>Javascript needs to be activated to view comments.</noscript>
+</section>

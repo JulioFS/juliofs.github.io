@@ -15,3 +15,8 @@ Cabins can be lit using _fairy lights_, button LED candles or other non-flammabl
 technologies.
 
 ![Rustix Cabins](PXL_20231103_020851689.NIGHT.jpg)
+
+<script data-isso="//isso.rustix.dev/" src="//isso.rustix.dev/js/embed.min.js"></script>
+<section id="isso-thread">
+    <noscript>Javascript needs to be activated to view comments.</noscript>
+</section>

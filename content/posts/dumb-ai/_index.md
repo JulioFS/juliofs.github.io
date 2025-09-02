@@ -21,3 +21,8 @@ First thing I do in VS Code (my default IDE) is to disable these mostrosities an
 Sure, "_.. Hey, ChatGPT, create a one page summary of the importance of the wrath of Achilles from the Illiad poem .._",
 or "_.. Hey OpenAI, resume the 3-hour audio file from my professor (from the class I missed) into a bulletpoint paragraph .._",
 that kind of thing, but please, stay away from coding.
+
+<script data-isso="//isso.rustix.dev/" src="//isso.rustix.dev/js/embed.min.js"></script>
+<section id="isso-thread">
+    <noscript>Javascript needs to be activated to view comments.</noscript>
+</section>
