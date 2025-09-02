@@ -1,7 +1,7 @@
 ---
 date: '2025-08-12T12:34:50-07:00'
 draft: true
-title: 'Showcase Cabins'
+title: 'Cabins Showcase'
 ---
 Some of my cabin work.
 

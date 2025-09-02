@@ -1,8 +1,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Rustix Dev – Showcase Cabins</title>
+    <title>Rustix Dev – Cabins Showcase</title>
     <link>http://localhost:1313/rustix/small-showcase/</link>
-    <description>Recent content in Showcase Cabins on Rustix Dev</description>
+    <description>Recent content in Cabins Showcase on Rustix Dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 12 Aug 2025 12:34:50 -0700</lastBuildDate>

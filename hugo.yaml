@@ -2,6 +2,7 @@ baseURL: https://blog.rustix.dev/
 languageCode: en-us
 title: Rustix Dev
 theme: hextra
+enableGitInfo: true
 security:
   enableInlineShortcodes: true
 markup:
