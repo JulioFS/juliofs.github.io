@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rustix Dev – Showcase Cabins</title>
-    <link>http://192.168.68.65:1313/rustix/small-showcase/</link>
+    <link>http://localhost:1313/rustix/small-showcase/</link>
     <description>Recent content in Showcase Cabins on Rustix Dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 12 Aug 2025 12:34:50 -0700</lastBuildDate>
     
-	  <atom:link href="http://192.168.68.65:1313/rustix/small-showcase/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:1313/rustix/small-showcase/index.xml" rel="self" type="application/rss+xml" />
     
     
       

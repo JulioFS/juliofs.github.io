@@ -24,5 +24,5 @@ that kind of thing, but please, stay away from coding.
 
 <script data-isso="//isso.rustix.dev/" src="//isso.rustix.dev/js/embed.min.js"></script>
 <section id="isso-thread">
-    <noscript>Javascript needs to be activated to view comments.</noscript>
+    <noscript>Javascript needs to be activated to view comments!.</noscript>
 </section>

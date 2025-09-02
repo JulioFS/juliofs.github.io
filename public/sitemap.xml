@@ -2,32 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://192.168.68.65:1313/rustix/about-rustix-cabins/</loc>
+    <loc>http://localhost:1313/rustix/about-rustix-cabins/</loc>
     <lastmod>2025-08-08T12:34:50-07:00</lastmod>
   </url><url>
-    <loc>http://192.168.68.65:1313/posts/dumb-ai/</loc>
+    <loc>http://localhost:1313/posts/dumb-ai/</loc>
     <lastmod>2025-08-30T11:41:00-07:00</lastmod>
   </url><url>
-    <loc>http://192.168.68.65:1313/posts/fancy-menu/</loc>
+    <loc>http://localhost:1313/posts/fancy-menu/</loc>
     <lastmod>2025-08-29T11:53:04-07:00</lastmod>
   </url><url>
-    <loc>http://192.168.68.65:1313/rustix/small-showcase/</loc>
+    <loc>http://localhost:1313/rustix/small-showcase/</loc>
     <lastmod>2025-08-12T12:34:50-07:00</lastmod>
   </url><url>
-    <loc>http://192.168.68.65:1313/rustix/</loc>
+    <loc>http://localhost:1313/rustix/</loc>
     <lastmod>2025-08-08T10:54:57-07:00</lastmod>
   </url><url>
-    <loc>http://192.168.68.65:1313/posts/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2025-08-08T10:50:52-07:00</lastmod>
   </url><url>
-    <loc>http://192.168.68.65:1313/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
     <lastmod>2025-08-08T10:34:14-07:00</lastmod>
   </url><url>
-    <loc>http://192.168.68.65:1313/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2025-08-08T10:34:04-07:00</lastmod>
   </url><url>
-    <loc>http://192.168.68.65:1313/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>http://192.168.68.65:1313/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>

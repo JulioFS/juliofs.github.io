@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rustix Dev – Dumb AI</title>
-    <link>http://192.168.68.65:1313/posts/dumb-ai/</link>
+    <link>http://localhost:1313/posts/dumb-ai/</link>
     <description>Recent content in Dumb AI on Rustix Dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 30 Aug 2025 11:41:00 -0700</lastBuildDate>
     
-	  <atom:link href="http://192.168.68.65:1313/posts/dumb-ai/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:1313/posts/dumb-ai/index.xml" rel="self" type="application/rss+xml" />
     
     
       
